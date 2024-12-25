@@ -1,6 +1,7 @@
 # Pokédex
 
 Welcome to **Pokédex**, a web-based application that provides detailed information about 151 different Pokémons. Explore, search, and learn about your favorite Pokémon in an interactive and visually appealing way.
+Hosted on: https://aaravporwal.me/pokedex/
 
 ## Features
 
